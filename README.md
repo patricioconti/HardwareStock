@@ -7,9 +7,9 @@ The user adds new item entries and update existing ones.
 
 The data is stored in a local database using Room.
 
-Navigation was implmented using Navigation component.
+Navigation was implemented using Navigation component.
 
-There's an overflow menu in the tool bar for settings that navigates to a Settings Fragment.
+There's an overflow menu in the tool bar that navigates to a Settings Fragment.
 
 On Settings Fragment the user can enable or disable reminder notifications. This data is stored using PreferenceDataStore (Coroutines and Flow).
 
@@ -34,14 +34,15 @@ Architecture: MVVM
 Purpose
 --------------
 
-This code demonstrates the Android Architecture component- ViewModel and LiveData.
+This code demonstrates how to implement:
 
-It also shows how to implement:
-
-* Navigation component
+* ViewModel and LiveData
+* Room (Entity,Dao,Database)
+* Implicit intents
+* Navigation component (Fragment and menu)
 * Notifications
-* Workmanager
-* Preference DataStore
+* WorkManager
+* Preference DataStore (Coroutines and Flow)
 * Testing (Espresso, Orchestrator, Uiautomator, Fragment and Navigation tester).
 
 
