@@ -7,6 +7,8 @@ The user adds new item entries and update existing ones.
 
 The data is stored in a local database using Room.
 
+List item is showed with RecyclerView
+
 Navigation was implemented using Navigation component.
 
 There's an overflow menu in the tool bar that navigates to a Settings Fragment.
@@ -38,8 +40,9 @@ This code demonstrates how to implement:
 
 * ViewModel and LiveData
 * Room (Entity,Dao,Database)
-* Implicit intents
+* RecyclerView
 * Navigation component (Fragment and menu)
+* Implicit intents
 * Notifications
 * WorkManager
 * Preference DataStore (Coroutines and Flow)
