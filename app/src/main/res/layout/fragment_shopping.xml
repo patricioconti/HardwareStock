@@ -1,0 +1,48 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ShoppingFragment">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="32dp"
+        android:importantForAccessibility="no"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/ic_shopping_cart_black" />
+
+
+    <Button
+        android:id="@+id/buckleGuy_action"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/buckleguy"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <Button
+        android:id="@+id/ZipperThread_action"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_between_elements"
+        android:text="@string/zipper_thread"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <Button
+        android:id="@+id/ZipperStop_action"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_between_elements"
+        android:text="@string/zipper_stop"
+        android:layout_gravity="center_horizontal"
+        />
+
+
+</LinearLayout>

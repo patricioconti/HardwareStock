@@ -1,0 +1,32 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".SettingsFragment">
+
+    <ImageView
+        android:id="@+id/icon_update_reminder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        app:layout_constraintBottom_toBottomOf="@id/update_reminder_switch"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/update_reminder_switch"
+        app:srcCompat="@drawable/ic_update" />
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/update_reminder_switch"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/update_reminder"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/icon_update_reminder"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="@dimen/margin_between_elements"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

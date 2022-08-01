@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable-anydpi-v24/stock_image.xml" value="0.5" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_adaptive_icon.xml" value="0.1565" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_adaptive_icon_hardware_stock.xml" value="0.22" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_adaptive_icon_hardware_stock_comb.xml" value="2.0" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_archive_plus.xml" value="0.1025" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_edit.xml" value="0.1025" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_launcher_hardware_stock.xml" value="0.25" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_shopping_cart_black.xml" value="0.1015" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_shopping_cart_white.xml" value="0.1025" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_stock_notify.xml" value="0.1025" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/drawable/ic_update.xml" value="0.1655" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/fragment_add_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/fragment_item_detail.xml" value="0.1" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/fragment_item_list.xml" value="0.33" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/fragment_shopping.xml" value="0.15" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/layout/item_list_item.xml" value="0.25" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/menu/overflow_menu.xml" value="0.1" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Pato/Kotlin/06-Portfolio/HardwareStock/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
