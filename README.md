@@ -7,7 +7,7 @@ The user adds new item entries and update existing ones.
 
 The data is stored in a local database using Room.
 
-List item is showed with RecyclerView
+List item is showed with RecyclerView.
 
 Navigation was implemented using Navigation component.
 
