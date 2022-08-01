@@ -32,6 +32,7 @@ A custom .xml icon launcher was included.
 
 Architecture: MVVM
 
+![HardwareStock-Social-Medias-1280-640](https://user-images.githubusercontent.com/96868937/182251628-2a4dcde9-fdc6-4d98-a65a-ae2d0cf98597.jpg)
 
 Purpose
 --------------
